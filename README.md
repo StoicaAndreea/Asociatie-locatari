@@ -12,4 +12,4 @@ canal, alte cheltuieli.
 4. Determinarea celei mai mari cheltuieli pentru fiecare tip de cheltuială.
 5. Ordonarea cheltuielilor descrescător după sumă.
 6. Afișarea sumelor lunare pentru fiecare apartament.
-7. Undo.
+7. Undo, Redo.
